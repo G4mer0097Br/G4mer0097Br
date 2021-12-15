@@ -6,12 +6,6 @@
 - 🔭 Sou um estudante de Desenvolvimento de sistemas
 - 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
 - 😄 Pronomes:Ele/Dele
-
- 
- - 🔭 Sou um estudante de Desenvolvimento de sistemas
-- 🌱 Eu estou aprendendo diversas linguagens como css,js,html,C#,entre outras
-- 😄 Pronomes:Ele/Dele
-
  
 
 
