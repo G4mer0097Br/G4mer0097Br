@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/G4mer0097Br">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gamer0097Br&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer0097Br&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gamer0097Br&show_icons=true&theme=dark&include_all_commits=true&count_private=true/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer0097Br&layout=compact&langs_count=7&theme=dark/">
 </div>
   
 <div style="display: inline_block"><br>
